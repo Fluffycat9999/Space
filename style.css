@@ -264,7 +264,7 @@ body{
 }
 @media only screen and (max-width: 320px){
 	.galaxies{
-		height: 100vh;
+		height: 1000vh;
 	}
 }
 .composition--p1{
@@ -364,7 +364,7 @@ body{
 }
 @media only screen and (max-width: 320px){
 	.stargazing{
-		height: 300vh;
+		height: 3000vh;
 	}
 }
 
@@ -543,7 +543,7 @@ body{
 }
 @media only screen and (max-width: 320px){
 	.comments{
-		height: 300vh;
+		height: 3000vh;
 	}
 }
 
