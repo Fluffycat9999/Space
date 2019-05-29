@@ -364,7 +364,7 @@ body{
 }
 @media only screen and (max-width: 320px){
 	.stargazing{
-		height: 150vh;
+		height: 300vh;
 	}
 }
 
@@ -543,7 +543,7 @@ body{
 }
 @media only screen and (max-width: 320px){
 	.comments{
-		height: 150vh;
+		height: 300vh;
 	}
 }
 
