@@ -557,7 +557,7 @@ body{
 }
 @media only screen and (max-width: 320px){
 	.comments{
-		height: 135vh;
+		height: 170vh;
 	}
 	.box{
 		padding: 1rem;
