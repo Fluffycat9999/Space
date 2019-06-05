@@ -260,7 +260,7 @@ body{
 }
 @media only screen and (max-width: 320px){
 	.galaxies{
-		height: 1000vh;
+		height: 150vh;
 	}
 }
 .composition--p1{
@@ -282,7 +282,14 @@ body{
 	top: 6rem;
 	left:60%;
 }
-
+@media only screen and (max-width: 320px){
+	.composition--p1{
+		display: none;
+	}
+	.composition--p4{
+		display: none;
+	}
+}
 
 .row:not(:last-child){
 	margin-bottom: 6rem;
@@ -360,7 +367,7 @@ body{
 }
 @media only screen and (max-width: 320px){
 	.stargazing{
-		height: 3000vh;
+		height: 200vh;
 	}
 }
 
@@ -430,6 +437,17 @@ body{
 @media only screen and (max-width: 768px){
 	.card3{
 		top: 55rem;
+	}
+}
+@media only screen and (max-width: 320px){
+	.card-side{
+		height: 50rem;
+	}
+	.card2{
+		top: 40rem;
+	}
+	.card3{
+		display: none;
 	}
 }
 
@@ -539,7 +557,12 @@ body{
 }
 @media only screen and (max-width: 320px){
 	.comments{
-		height: 3000vh;
+		height: 135vh;
+	}
+	.box{
+		padding: 1rem;
+		border: none;
+		background: none;
 	}
 }
 
